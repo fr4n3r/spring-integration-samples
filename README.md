@@ -139,3 +139,5 @@ For more information, please visit the Spring Integration website at: [http://pr
 [message store reaper]: http://static.springsource.org/spring-integration/api/org/springframework/integration/store/MessageGroupStoreReaper.html
 
 [Xavier Padró]: https://github.com/xpadro/spring-integration
+
+Check a rebase
